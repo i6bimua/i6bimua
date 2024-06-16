@@ -1,5 +1,4 @@
-## ✨ huangyu_1 ✨
-## 🔭 探索宇宙中
+## ✨ huangyu_1 ✨ 🔭 探索宇宙中
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=100&color=9365DC&center=true&vCenter=true&multiline=true&random=false&width=800&height=200&lines=Per+Aspera+Ad+Astra;++;%E5%BE%AA%E6%AD%A4%E8%8B%A6%E6%97%85%EF%BC%8C%E4%BB%A5%E8%BE%BE%E5%A4%A9%E9%99%85)](https://git.io/typing-svg)
 
